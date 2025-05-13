@@ -7,7 +7,7 @@ setup(
     install_requires=[
         "sentence-transformers>=2.2.2",
         "numpy>=1.20.0",
-        "google-cloud-aiplatform>=2.0.0",  # Include dependencies
+        "google-cloud-aiplatform>=1.38.0",  # Include dependencies
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
